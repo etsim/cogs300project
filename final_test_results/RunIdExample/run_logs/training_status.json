@@ -1,0 +1,41 @@
+{
+    "Agent": {
+        "checkpoints": [
+            {
+                "steps": 51438,
+                "file_path": "results/RunIdExample/Agent/Agent-51438.onnx",
+                "reward": null,
+                "creation_time": 1616624151.722095
+            },
+            {
+                "steps": 0,
+                "file_path": "results/RunIdExample/Agent/Agent-0.onnx",
+                "reward": null,
+                "creation_time": 1617062905.7981079
+            },
+            {
+                "steps": 0,
+                "file_path": "results/RunIdExample/Agent/Agent-0.onnx",
+                "reward": null,
+                "creation_time": 1617063261.766036
+            },
+            {
+                "steps": 0,
+                "file_path": "results/RunIdExample/Agent/Agent-0.onnx",
+                "reward": null,
+                "creation_time": 1617063680.0066502
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 0,
+            "file_path": "results/RunIdExample/Agent.onnx",
+            "reward": null,
+            "creation_time": 1617063680.0066502
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.1.0",
+        "mlagents_version": "0.17.0",
+        "tensorflow_version": "2.4.1"
+    }
+}
